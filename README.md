@@ -7,3 +7,5 @@ Raport projektu zawiera:
 - zamodelowane równania różniczkowe ruchu
 - rozwiazanie numeryczne układu równań
 - odpowiednie wykresy
+
+W zadaniu użytkownik podaje warunki początkowe, czyli początkowe wychylenie z położenia równowagi danego stożka oraz początkową prędkość ruchu i wysokość badanego stożka. Można również zmieniać krok całkowania do uzyskania lepszych rezulatatów. 
